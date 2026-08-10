@@ -1,0 +1,18 @@
+title: Enza Deuscit
+description: Psicologa e Psicoterapeuta Cognitivo-Comportamentale a Trento.
+lang: it
+markdown: kramdown
+exclude:
+  - old
+
+collections:
+  riflessioni:
+    output: true
+    permalink: /riflessioni/:slug/
+
+defaults:
+  - scope:
+      path: ""
+      type: riflessioni
+    values:
+      layout: riflessione

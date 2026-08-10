@@ -1,0 +1,23 @@
+backend:
+  # Accesso diretto con l'account GitHub della cliente.
+  name: github
+  repo: andreacoppari/enzadeuscit
+  branch: main
+
+locale: it
+media_folder: "images/riflessioni"
+public_folder: "/images/riflessioni"
+
+collections:
+  - name: "riflessioni"
+    label: "Riflessioni"
+    label_singular: "Riflessione"
+    folder: "_riflessioni"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - { label: "Titolo", name: "title", widget: "string" }
+      - { label: "Data", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss Z" }
+      - { label: "Testo", name: "body", widget: "markdown" }

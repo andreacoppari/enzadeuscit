@@ -1,0 +1,16 @@
+<header class="site-header">
+  <div class="container nav-wrap">
+    <a class="brand" href="{{ '/' | relative_url }}" aria-label="Enza Deuscit, home">
+      <img src="{{ '/images/logo%20enza.jpg' | relative_url }}" alt="Logo Enza Deuscit">
+      <span>Enza Deuscit<small>Psicologa · Psicoterapeuta</small></span>
+    </a>
+    <button class="menu-toggle" aria-expanded="false" aria-controls="main-menu"><span></span><span></span><span></span><i class="sr-only">Apri menu</i></button>
+    <nav id="main-menu" class="main-nav" aria-label="Navigazione principale">
+      <a{% if page.url == '/' %} class="active"{% endif %} href="{{ '/' | relative_url }}">Home</a>
+      <a{% if page.url == '/chi-sono.html' %} class="active"{% endif %} href="{{ '/chi-sono.html' | relative_url }}">Profilo</a>
+      <a{% if page.url == '/attivita.html' %} class="active"{% endif %} href="{{ '/attivita.html' | relative_url }}">Attività</a>
+      <a{% if page.url contains '/riflessioni' %} class="active"{% endif %} href="{{ '/riflessioni/' | relative_url }}">Riflessioni</a>
+      <a class="nav-contact{% if page.url == '/contatti.html' %} active{% endif %}" href="{{ '/contatti.html' | relative_url }}">Contatti</a>
+    </nav>
+  </div>
+</header>
