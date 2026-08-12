@@ -11,6 +11,13 @@
 *.sln.docstates
 *.env
 
+# Ruby/Jekyll local dependencies and settings
+.bundle/
+vendor/
+_site/
+.jekyll-cache/
+.sass-cache/
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
