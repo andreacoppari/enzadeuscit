@@ -18,6 +18,9 @@ _site/
 .jekyll-cache/
 .sass-cache/
 
+# Local source and migration archives (not published)
+old/
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 

@@ -1,0 +1,8 @@
+---
+title: "Lo steccato"
+order: 6
+image: "/images/storie/steccato.jpg"
+summary: "Un giorno un ragazzo con un brutto carattere ebbe dal padre un sacchetto di chiodi. Il genitore gli disse di piantarne uno nello steccato del giardino ogni volta che avesse pers…"
+---
+
+Un giorno un ragazzo con un brutto carattere ebbe dal padre un sacchetto di chiodi. Il genitore gli disse di piantarne uno nello steccato del giardino ogni volta che avesse perso la pazienza e litigato con qualcuno. Il primo giorno il ragazzo piantò 37 chiodi nello steccato. Nelle settimane seguenti, imparò a controllarsi e il numero di chiodi piantati nello steccato diminuì giorno per giorno: aveva scoperto che era più facile controllarsi che piantare i chiodi. Finalmente arrivo un giorno in cui il ragazzo non piantò alcun chiodo nello steccato. Allora andò dal padre e gli disse che per quel giorno non aveva piantato alcun chiodo. Il padre allora gli disse di levare un chiodo dallo steccato per ogni giorno in cui non aveva perso la pazienza e litigato con qualcuno. I giorni passarono e finalmente il ragazzo poté dire al padre che aveva levato tutti i chiodi dallo steccato. Il padre portò il ragazzo davanti allo steccato e gli disse: "Figlio mio, ti sei comportato bene ma guarda quanti buchi ci sono nello steccato. Lo steccato non sarà mai più come prima. Quando litighi con qualcuno e gli dici qualcosa di brutto, gli lasci una ferita come queste. Puoi piantare un coltello in un uomo, e poi levarlo, ma rimarrà sempre una ferita. Non importa quante volte ti scuserai, la ferita rimarrà." Una ferita verbale fa male quanto una fisica.

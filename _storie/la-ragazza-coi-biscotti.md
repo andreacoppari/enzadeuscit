@@ -1,0 +1,11 @@
+---
+title: "La ragazza coi biscotti"
+order: 2
+image: "/images/storie/biscotti.jpg"
+summary: "La ragazza stava aspettando il suo volo in una sala d'attesa di un grande aeroporto. Siccome avrebbe dovuto aspettare per molto tempo, decise di comprare un libro per ammazzare…"
+---
+
+La ragazza stava aspettando il suo volo in una sala d'attesa di un grande aeroporto. Siccome avrebbe dovuto aspettare per molto tempo, decise di comprare un libro per ammazzare il tempo. Comprò anche un pacchetto di biscotti. Si sedette nella sala VIP per stare più tranquilla.  
+Accanto a lei c'era la sedia con i biscotti e dall'altro lato un signore che stava leggendo il giornale. Quando lei cominciò a prendere il primo biscotto, anche l'uomo ne prese uno, lei si sentì indignata ma non disse nulla e continuò a leggere il suo libro. Tra lei e lei pensò "ma tu guarda se solo avessi un po' più di coraggio gli avrei già dato un pugno..." Così ogni volta che lei prendeva un biscotto, l'uomo accanto a lei, senza fare un minimo cenno ne prendeva uno anche lui. Continuarono fino a che non rimase solo un biscotto e la donna pensò: "ah, adesso voglio proprio vedere cosa mi dice quando saranno finiti tutti!" L'uomo prima che lei prendesse l'ultimo biscotto lo divise a metà! "Ah, questo è troppo" pensò e cominciò a sbuffare e indignata si prese le sue cose il libro e la sua borsa e si incamminò verso l'uscita della sala d'attesa. Quando si sentì un po' meglio e la rabbia era passata, si sedette in una sedia lungo il corridoio per non attirare troppo l'attenzione ed evitare altri dispiaceri. Chiuse il libro e aprì la borsa per infilarlo dentro quando... nell'aprire la borsa vide che il pacchetto di biscotti era ancora tutto intero nel suo interno. Sentì tanta vergogna e capì solo allora che il pacchetto di biscotti uguale al suo era di quell'uomo seduto accanto a lei che però aveva diviso i suoi biscotti con lei senza sentirsi indignato, nervoso o superiore al contrario di lei che aveva sbuffato e addirittura si sentiva ferita nell'orgoglio..
+
+La morale: quante volte nella nostra vita mangeremo o abbiamo mangiato i biscotti di un altro senza saperlo? Prima di arrivare ad una conclusione affrettata e prima di pensare male delle persone, guarda attentamente le cose, molto spesso non sono come sembrano.

@@ -1,23 +1,42 @@
 backend:
-  # Accesso diretto con l'account GitHub della cliente.
   name: github
   repo: andreacoppari/enzadeuscit
   branch: main
+  site_domain: axy-ed-demo.netlify.app
 
 locale: it
-media_folder: "images/riflessioni"
-public_folder: "/images/riflessioni"
+media_folder: "images/uploads"
+public_folder: "/images/uploads"
 
 collections:
-  - name: "riflessioni"
-    label: "Riflessioni"
-    label_singular: "Riflessione"
-    folder: "_riflessioni"
+  - name: "appunti"
+    label: "Appunti di psicologia"
+    label_singular: "Appunto"
+    folder: "_appunti"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     extension: "md"
     format: "frontmatter"
+    sortable_fields: ["title", "order"]
     fields:
       - { label: "Titolo", name: "title", widget: "string" }
-      - { label: "Data", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss Z" }
+      - { label: "Ordine", name: "order", widget: "number", value_type: "int", default: 99, min: 1 }
+      - { label: "Descrizione breve", name: "summary", widget: "text", required: false }
+      - { label: "Immagine", name: "image", widget: "image", required: false }
+      - { label: "Testo", name: "body", widget: "markdown" }
+
+  - name: "storie"
+    label: "Storie che scaldano il cuore"
+    label_singular: "Storia"
+    folder: "_storie"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    sortable_fields: ["title", "order"]
+    fields:
+      - { label: "Titolo", name: "title", widget: "string" }
+      - { label: "Ordine", name: "order", widget: "number", value_type: "int", default: 99, min: 1 }
+      - { label: "Descrizione breve", name: "summary", widget: "text", required: false }
+      - { label: "Immagine", name: "image", widget: "image", required: false }
       - { label: "Testo", name: "body", widget: "markdown" }

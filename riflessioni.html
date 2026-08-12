@@ -1,12 +1,5 @@
 ---
-layout: default
-title: Riflessioni
-description: Riflessioni della Dott.ssa Enza Deuscit.
+layout: null
 permalink: /riflessioni/
 ---
-<section class="page-intro"><div class="container"><p class="eyebrow">Riflessioni</p><h1>Spunti per <em>fermarsi.</em></h1><p class="lead">Pensieri, parole e approfondimenti sul benessere psicologico.</p></div></section>
-<section class="section reflections"><div class="container">
-  {% if site.riflessioni.size > 0 %}<div class="reflection-list">{% assign posts = site.riflessioni | sort: 'date' | reverse %}{% for post in posts %}
-    <article><p class="eyebrow">{{ post.date | date: "%d.%m.%Y" }}</p><h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>{% if post.excerpt %}<p>{{ post.excerpt | strip_html | truncate: 190 }}</p>{% endif %}<a class="text-link" href="{{ post.url | relative_url }}">Leggi la riflessione <span>→</span></a></article>
-  {% endfor %}</div>{% else %}<p class="empty-state">Le riflessioni saranno pubblicate qui prossimamente.</p>{% endif %}
-</div></section>
+<!doctype html><html lang="it"><head><meta charset="utf-8"><meta http-equiv="refresh" content="0; url={{ '/storie/' | relative_url }}"><link rel="canonical" href="{{ '/storie/' | absolute_url }}"><title>Storie che scaldano il cuore</title></head><body><p>La sezione Riflessioni ora si chiama <a href="{{ '/storie/' | relative_url }}">Storie che scaldano il cuore</a>.</p></body></html>

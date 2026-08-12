@@ -1,18 +1,34 @@
 title: Enza Deuscit
-description: Psicologa e Psicoterapeuta Cognitivo-Comportamentale a Trento.
+description: Psicologa, Psicoterapeuta Cognitivo-Comportamentale e Psicoterapeuta EMDR a Trento.
 lang: it
+url: ""
+baseurl: ""
 markdown: kramdown
 exclude:
   - old
+  - old-website
+  - indicazioni
 
 collections:
-  riflessioni:
+  appunti:
     output: true
-    permalink: /riflessioni/:slug/
+    permalink: /appunti/:slug/
+  storie:
+    output: true
+    permalink: /storie/:slug/
 
 defaults:
   - scope:
       path: ""
-      type: riflessioni
+      type: appunti
     values:
-      layout: riflessione
+      layout: articolo
+      section: Appunti di psicologia
+      section_url: /appunti/
+  - scope:
+      path: ""
+      type: storie
+    values:
+      layout: articolo
+      section: Storie che scaldano il cuore
+      section_url: /storie/
