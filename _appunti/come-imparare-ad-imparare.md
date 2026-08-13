@@ -1,6 +1,6 @@
 ---
 title: "Come imparare ad imparare"
-order: 8
+order: 2
 image: "/images/appunti/libri.jpg"
 summary: "Qualche suggerimento pratico per tutti gli studenti"
 ---

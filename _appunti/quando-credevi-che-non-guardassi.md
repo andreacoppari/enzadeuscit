@@ -1,6 +1,6 @@
 ---
 title: "Quando credevi che non guardassi... di un bambino"
-order: 9
+order: 6
 image: "/images/appunti/mano-bimbo.jpg"
 summary: "\"Quando credevi che non guardassi, ti ho visto appendere il mio primo disegno sul frigorifero e subito ho avuto voglia di farne un altro."
 ---

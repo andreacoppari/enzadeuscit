@@ -1,6 +1,6 @@
 ---
 title: "Crescere nel trauma e approdare in una spiaggia sicura"
-order: 10
+order: 4
 image: "/images/appunti/approdo-spiaggia.png"
 summary: "Ci sono bambini che crescono in ambienti dove la sicurezza non è garantita. Non perché manchino gli adulti, ma perché quegli adulti non riescono a offrire protezione, continuità…"
 ---
