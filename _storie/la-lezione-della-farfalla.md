@@ -1,8 +1,10 @@
 ---
-title: "La lezione della farfalla"
+title: La lezione della farfalla
 order: 7
-image: "/images/storie/farfalla-bozzolo.jpg"
-summary: "Allora l'uomo decise di aiutare la farfalla: prese un temperino, aprì il bozzolo permettendo alla farfalla di uscire immediatamente. Il suo corpo però era piccolo e rattrappito…"
+summary: "Allora l'uomo decise di aiutare la farfalla: prese un temperino, aprì
+  il bozzolo permettendo alla farfalla di uscire immediatamente. Il suo corpo
+  però era piccolo e rattrappito…"
+image: /images/uploads/lez.farfalla.png
 ---
 
 Allora l'uomo decise di aiutare la farfalla: prese un temperino, aprì il bozzolo permettendo alla farfalla di uscire immediatamente. Il suo corpo però era piccolo e rattrappito e le sue ali si muovevano a stento. L'uomo continuava ad osservare con attenzione perchè sperava che da un momento all'altro le ali della farfalla si sarebbero aperte ed avrebbe potuto cominciare a volare...
