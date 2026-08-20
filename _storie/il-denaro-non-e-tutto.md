@@ -1,8 +1,8 @@
 ---
-title: "Il denaro non è tutto"
+title: Il denaro non è tutto
 order: 9
-image: "/images/storie/albero-soldi.jpg"
-summary: "Può comprare un libro, ma non la conoscenza e la saggezza."
+summary: Può comprare un libro, ma non la conoscenza e la saggezza.
+image: /images/uploads/il-denaro-non-tutto.png
 ---
 
 IL DENARO NON E' TUTTO
