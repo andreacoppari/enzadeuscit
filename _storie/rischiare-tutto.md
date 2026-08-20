@@ -1,8 +1,10 @@
 ---
-title: "Rischiare tutto"
+title: Rischiare tutto
 order: 10
-image: "/images/storie/arcobaleno.jpg"
-summary: "Ridere è rischiare di apparire matti... Piangere è rischiare di apparire sentimentali... Tendere la mano significa rischiare di impegnarsi... Mostrare i sentimenti è rischiare d…"
+summary: Ridere è rischiare di apparire matti... Piangere è rischiare di
+  apparire sentimentali... Tendere la mano significa rischiare di impegnarsi...
+  Mostrare i sentimenti è rischiare d…
+image: /images/uploads/rischio_dixit.jpeg
 ---
 
 Ridere è rischiare di apparire matti...  
