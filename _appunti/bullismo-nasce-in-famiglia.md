@@ -1,8 +1,10 @@
 ---
-title: "Bullismo? Nasce in famiglia"
+title: Bullismo? Nasce in famiglia
 order: 1
-image: "/images/appunti/bullismo.png"
-summary: "Dietro a ogni bullo c’è una famiglia di bulli, perché il bullismo è un comportamento che si apprende, non è innato. La denuncia arriva da un’intervista pubblicata da QUT News."
+summary: Dietro a ogni bullo c’è una famiglia di bulli, perché il bullismo è un
+  comportamento che si apprende, non è innato. La denuncia arriva da
+  un’intervista pubblicata da QUT News.
+image: /images/uploads/bullismo_nasce-in-fam.png
 ---
 
 Dietro a ogni bullo c’è una famiglia di bulli, perché il bullismo è un comportamento che si apprende, non è innato. La denuncia arriva da un’intervista pubblicata da QUT News.
