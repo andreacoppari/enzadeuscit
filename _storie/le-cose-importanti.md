@@ -1,8 +1,10 @@
 ---
-title: "Le cose importanti"
+title: Le cose importanti
 order: 13
-image: "/images/storie/cose-importanti.jpg"
-summary: "Un professore stava davanti alla sua classe di filosofia e aveva davanti alcuni oggetti, quando la classe incominciò a zittirsi prese un grande barattolo di maionese vuoto e lo…"
+summary: Un professore stava davanti alla sua classe di filosofia e aveva
+  davanti alcuni oggetti, quando la classe incominciò a zittirsi prese un grande
+  barattolo di maionese vuoto e lo…
+image: /images/uploads/le-cose-importanti.png
 ---
 
 Un professore stava davanti alla sua classe di filosofia e aveva davanti alcuni oggetti, quando la classe incominciò a zittirsi prese un grande barattolo di maionese vuoto e lo iniziò a riempire di palline da golf; chiese poi agli studenti se il barattolo fosse pieno e questi risposero che lo era.
