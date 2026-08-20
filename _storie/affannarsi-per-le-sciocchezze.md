@@ -1,8 +1,9 @@
 ---
-title: "Affannarsi per le sciocchezze"
+title: Affannarsi per le sciocchezze
 order: 3
-image: "/images/storie/treno.png"
-summary: "Una signora intraprese un breve viaggio in treno in una zona famosa per il suo splendido paesaggio."
+summary: Una signora intraprese un breve viaggio in treno in una zona famosa per
+  il suo splendido paesaggio.
+image: /images/uploads/affannarsi-per-schiocchezze.png
 ---
 
 Una signora intraprese un breve viaggio in treno in una zona famosa per il suo splendido paesaggio.
