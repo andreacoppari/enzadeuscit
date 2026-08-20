@@ -1,8 +1,8 @@
 ---
-title: "L'albero degli amici"
+title: L'albero degli amici
 order: 16
-image: "/images/storie/albero-amici.jpg"
-summary: "Esistono nella nostra vita persone che ci rendono felici"
+summary: Esistono nella nostra vita persone che ci rendono felici
+image: /images/uploads/albero_amici.png
 ---
 
 Esistono nella nostra vita persone che ci rendono felici
