@@ -1,8 +1,9 @@
 ---
-title: "La rabbia"
+title: La rabbia
 order: 5
-image: "/images/storie/cuori-sabbia.jpg"
-summary: "Un giorno, un pensatore indiano fece la seguente domanda ai suoi discepoli: “Perché le persone gridano quando sono arrabbiate?”"
+summary: "Un giorno, un pensatore indiano fece la seguente domanda ai suoi
+  discepoli: “Perché le persone gridano quando sono arrabbiate?”"
+image: /images/uploads/copilot_rabbia.png
 ---
 
 Un giorno, un pensatore indiano fece la seguente domanda ai suoi discepoli:  
