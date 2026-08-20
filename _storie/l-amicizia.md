@@ -1,8 +1,8 @@
 ---
-title: "L'amicizia"
+title: L'amicizia
 order: 17
-image: "/images/storie/amicizia.jpg"
-summary: "Non posso darti soluzioni per tutti i problemi della vita."
+summary: Non posso darti soluzioni per tutti i problemi della vita.
+image: /images/uploads/copilot_20260820_162642.png
 ---
 
 Non posso darti soluzioni per tutti i problemi della vita.
