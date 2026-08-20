@@ -1,10 +1,11 @@
 ---
-title: Crescere nel trauma e approdare in una spiaggia sicura. Articolo scritto
-  da Enza Deuscit, psicoterapeuta.
+title: "Crescere nel trauma e approdare in una spiaggia sicura. "
 order: 4
-summary: Ci sono bambini che crescono in ambienti dove la sicurezza non è
-  garantita. Non perché manchino gli adulti, ma perché quegli adulti non
-  riescono a offrire protezione, continuità…
+summary: >-
+  Articolo scritto da Enza Deuscit, psicoterapeuta.
+
+
+  Ci sono bambini che crescono in ambienti dove la sicurezza non è garantita. Non perché manchino gli adulti, ma perché quegli adulti non riescono a offrire protezione, continuità…
 image: /images/appunti/approdo-spiaggia.png
 ---
 
