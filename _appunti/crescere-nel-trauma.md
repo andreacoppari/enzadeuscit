@@ -1,8 +1,11 @@
 ---
-title: "Crescere nel trauma e approdare in una spiaggia sicura"
+title: Crescere nel trauma e approdare in una spiaggia sicura. Articolo scritto
+  da Enza Deuscit, psicoterapeuta.
 order: 4
-image: "/images/appunti/approdo-spiaggia.png"
-summary: "Ci sono bambini che crescono in ambienti dove la sicurezza non è garantita. Non perché manchino gli adulti, ma perché quegli adulti non riescono a offrire protezione, continuità…"
+summary: Ci sono bambini che crescono in ambienti dove la sicurezza non è
+  garantita. Non perché manchino gli adulti, ma perché quegli adulti non
+  riescono a offrire protezione, continuità…
+image: /images/appunti/approdo-spiaggia.png
 ---
 
 Ci sono bambini che crescono in ambienti dove la sicurezza non è garantita. Non perché manchino gli adulti, ma perché quegli adulti non riescono a offrire protezione, continuità, ascolto. In queste famiglie, il mondo emotivo del bambino si costruisce attorno alla paura: paura di sbagliare, paura di essere punito, paura di non essere visto. È un trauma silenzioso, spesso invisibile agli occhi esterni, ma capace di modellare profondamente il modo in cui il bambino impara a percepire sé stesso e gli altri.
