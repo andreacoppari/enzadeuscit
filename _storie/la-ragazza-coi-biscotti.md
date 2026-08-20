@@ -1,8 +1,10 @@
 ---
-title: "La ragazza coi biscotti"
+title: La ragazza coi biscotti
 order: 2
-image: "/images/storie/biscotti.jpg"
-summary: "La ragazza stava aspettando il suo volo in una sala d'attesa di un grande aeroporto. Siccome avrebbe dovuto aspettare per molto tempo, decise di comprare un libro per ammazzare…"
+summary: La ragazza stava aspettando il suo volo in una sala d'attesa di un
+  grande aeroporto. Siccome avrebbe dovuto aspettare per molto tempo, decise di
+  comprare un libro per ammazzare…
+image: /images/uploads/la-ragazza-coi-biscotti.png
 ---
 
 La ragazza stava aspettando il suo volo in una sala d'attesa di un grande aeroporto. Siccome avrebbe dovuto aspettare per molto tempo, decise di comprare un libro per ammazzare il tempo. Comprò anche un pacchetto di biscotti. Si sedette nella sala VIP per stare più tranquilla.  
