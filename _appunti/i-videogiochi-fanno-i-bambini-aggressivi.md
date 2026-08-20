@@ -4,7 +4,7 @@ order: 5
 summary: "I videogiochi violenti desensibilizzano il cervello alle immagini
   'crude' e inducono comportamenti aggressivi: a sostenerlo è una ricerca
   americana della University of Missouri…"
-image: /images/uploads/aggr.e-videog..jpeg
+image: /images/uploads/videogiochi_bambini-aggr..png
 ---
 
 I videogiochi violenti desensibilizzano il cervello alle immagini 'crude' e inducono comportamenti aggressivi: a sostenerlo è una ricerca americana della University of Missouri condotta da Bruce Bartholow che spiega perché l'uso di alcuni videogames possa stimolare atteggiamenti di questo tipo. Lo studio apparirà sul prossimo numero della rivista Journal of Experimental Social Psychology.
