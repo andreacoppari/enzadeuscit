@@ -1,6 +1,6 @@
 ---
 title: "Crescere nel trauma e approdare in una spiaggia sicura. "
-order: 4
+order: 1
 summary: >-
   Articolo scritto da Enza Deuscit, psicoterapeuta.
 
