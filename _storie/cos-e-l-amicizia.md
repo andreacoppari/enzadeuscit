@@ -1,17 +1,16 @@
 ---
-title: "Cos'è l'amicizia?"
+title: Cos'è l'amicizia?
 order: 18
-image: "/images/storie/cose-amicizia.jpg"
-summary: "E un adolescente disse: “parlaci dell'amicizia”"
+summary: "Un adolescente disse: “parlaci dell'amicizia”"
+image: /images/uploads/amicizia_1.png
 ---
-
 E un adolescente disse: “parlaci dell'amicizia”
 
-e lui rispose dicendo: “il vostro amico è il vostro bisogno saziato.
+e lui rispose dicendo: “il vostro amico è il vostro bisogno saziato".
 
-E' il campo che seminate con amore e mietete con riconoscenza.
+ È il campo che seminate con amore e mietete con riconoscenza.
 
-E' la vostra mensa e il vostro focolare.
+ È la vostra mensa e il vostro focolare.
 
 Poiché affamati vi rifugiate in lui e lo ricercate per la vostra pace.
 
@@ -37,6 +36,6 @@ Poiché lui può colmare ogni vostro bisogno ma non il vostro vuoto.
 
 E condividete i piaceri sorridendo nella dolcezza dell'amicizia, poiché nella rugiada delle piccole cose il cuore ritrova il suo mattino e si ristora.
 
-"L'amico ama in ogni tempo; è nato per essere un fratello nella sventura"
+*"L'amico ama in ogni tempo; è nato per essere un fratello nella sventura"*
 
-(Proverbi 17:17)
+*(Proverbi 17:17)*
