@@ -22,9 +22,11 @@ Come riconoscerle e uscirne:
 
 **ATTACCAMENTO, SCHEMI E SCELTE DI COPPIA**
 
-Per comprendere davvero perché queste relazioni si instaurano e perché diventano così difficili da lasciare, è necessario guardare alla storia affettiva della persona. Nella prospettiva cognitivo‑comportamentale, gli schemi relazionali appresi nella famiglia d’origine influenzano profondamente ciò che percepiamo come “*normale*”, “*familiare*” o “*accettabile*”.
+Per comprendere davvero perché queste relazioni si instaurano e perché diventano così difficili da lasciare, è necessario guardare alla storia affettiva della persona. Nella prospettiva cognitivo‑comportamentale, gli schemi relazionali appresi nella famiglia d’origine influenzano profondamente ciò che percepiamo come “*normale*”, “*familiare*” o “*accettabile*”. Lo schema è una **regola interna che impariamo da bambini su come funzionano le relazioni e su chi siamo dentro quelle relazioni**. Non è qualcosa che si sceglie: è un copione che il nostro sistema emotivo ha memorizzato per proteggerci e continuiamo a ripetere automaticamente.
 
 Ecco perché parliamo di attaccamento, schemi e scelte di coppia. Se una persona ha sperimentato un attaccamento insicuro — ansioso, evitante o disorganizzato — tenderà a ricercare inconsciamente dinamiche simili nelle relazioni adulte. Non perché siano sane, ma perché sono conosciute. In altre parole, l’attaccamento guida le nostre scelte, spesso più di quanto crediamo.
+
+In sintesi: non si “sceglie il dolore”: **si** **sceglie ciò che si conosce**, ciò che il sistema emotivo ha imparato come “normale”.
 
 **CICLO DELLA VIOLENZA (di Lenore Walker)**
 
@@ -38,8 +40,6 @@ Alcuni autori aggiungono questa quarta fase:
 
 **4. Fase della calma apparente**: Dopo la riconciliazione, la relazione sembra “normalizzarsi”, ma è solo una tregua: la tensione ricomincia a crescere e il ciclo riparte, spesso con intensità maggiore.
 
-
-
 **PERCHÉ È COSÌ DIFFICILE USCIRNE**
 
 Le ragioni per cui una relazione disfunzionale diventa così difficile da interrompere sono molteplici e spesso si intrecciano tra loro:
@@ -49,7 +49,7 @@ Le ragioni per cui una relazione disfunzionale diventa così difficile da interr
 * **Paura della solitudin**e: la relazione diventa un rifugio, anche quando è fonte di sofferenza. 
 * **Credenze disfunzionali**: pensieri come *“non merito di meglio”, “è colpa mia”, “Se lo lascio,     nessuno mi amerà più”, “Devo essere paziente, è colpa del suo passato”, “Non posso buttare via tutto quello che abbiamo vissuto”* mantengono la persona nel legame, rafforzando l’idea che restare sia l’unica possibilità.
 
-Un ultimo aspetto — fondamentale, anche se spesso meno visibile — riguarda l’**attaccamento insicuro** e il modo in cui la nostra storia affettiva continua a influenzare le relazioni adulte. Quando abbiamo un attaccamento insicuro, tendiamo a legarci a persone che, senza che ce ne rendiamo conto, riattivano emozioni già sperimentate in passato. In queste dinamiche, il partner finisce per rappresentare proprio quel bisogno affettivo che non abbiamo mai davvero risolto, e lasciare la relazione significa rinunciare alla speranza — spesso inconscia — di colmarlo. Quando il partner attiva gli stessi bisogni e le stesse ferite vissute con il genitore, la persona rivive le emozioni dell’infanzia: è come se corpo e mente riconoscessero quel copione e ci riportassero dentro le stesse sensazioni di allora. Per questo il legame diventa così difficile da lasciare: non stiamo solo lasciando una persona, ma un pezzo della nostra storia affettiva. È davvero **un legame difficile da spezzare!**
+Un ultimo aspetto — fondamentale, anche se spesso meno visibile — riguarda l’**attaccamento insicuro** o **disorganizzato** (si sviluppa in contesti di forte instabilità, traumi o figure di riferimento spaventanti) e il modo in cui la nostra storia affettiva continua a influenzare le relazioni adulte. Quando abbiamo un attaccamento insicuro o disorganizzato tendiamo a legarci a persone che, senza che ce ne rendiamo conto, riattivano emozioni già sperimentate in passato. In queste dinamiche, il partner finisce per rappresentare proprio quel bisogno affettivo che non abbiamo mai davvero risolto, e lasciare la relazione significa rinunciare alla speranza — spesso inconscia — di colmarlo. Quando il partner attiva gli stessi bisogni e le stesse ferite vissute con il genitore, la persona rivive le emozioni dell’infanzia: è come se corpo e mente riconoscessero quel copione e ci riportassero dentro le stesse sensazioni di allora. Per questo il legame diventa così difficile da lasciare: non stiamo solo lasciando una persona, ma un pezzo della nostra storia affettiva. È davvero **un legame difficile da spezzare!**
 
 **COME INIZIARE A LIBERARSI: LAPROSPETTIVA COGNITIVO‑COMPORTAMENTALE**
 
