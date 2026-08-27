@@ -5,8 +5,6 @@ order: 2
 summary: Articolo scritto da Enza Deuscit, psicoterapeuta.
 image: /images/uploads/rel.toss1.jpeg
 ---
-
-
 Nella pratica clinica mi capita spesso di incontrare persone che vivono relazioni di coppia che generano sofferenza, confusione e un senso crescente di smarrimento. Sono relazioni che non nutrono, non sostengono, non fanno crescere: relazioni disfunzionali, oggi spesso chiamate *“tossiche”* nel linguaggio comune. La caratteristica centrale è che, nonostante il dolore, la persona fatica a interrompere il legame. È il paradosso del “***perché restiamo dove soffriamo***”.
 
 **LE DINAMICHE DI UNA RELAZIONEDISFUNZIONALE**
@@ -28,11 +26,25 @@ Per comprendere davvero perché queste relazioni si instaurano e perché diventa
 
 Ecco perché parliamo di attaccamento, schemi e scelte di coppia. Se una persona ha sperimentato un attaccamento insicuro — ansioso, evitante o disorganizzato — tenderà a ricercare inconsciamente dinamiche simili nelle relazioni adulte. Non perché siano sane, ma perché sono conosciute. In altre parole, l’attaccamento guida le nostre scelte, spesso più di quanto crediamo.
 
+**CICLO DELLA VIOLENZA (di Lenore Walker)**
+
+**1. Fase della tensione crescente:** l’aggressore diventa irritabile, controllante, critico. La vittima vive in ipervigilanza, “cammina sulle uova”, cerca di evitare il conflitto e si colpevolizza. *Clinicamente:* aumento dell’ansia, deterioramento dell’autostima, adattamento forzato
+
+**2. Fase dell’esplosione/agito violento**: la tensione sfocia in violenza fisica, psicologica, sessuale o economica. La vittima può sperimentare paura intensa, dissociazione, blocco emotivo. *Clinicamente:* sintomi simili al PTSD, confusione cognitiva, paralisi comportamentale.
+
+**3. Fase della riconciliazione (luna di miele):** l’aggressore si mostra pentito, affettuoso, promette cambiamento. La vittima, confusa, spera che “questa volta sarà diverso”. *Clinicamente:* rinforzo intermittente, dipendenza affettiva, difficoltà a riconoscere l’abuso. 
+
+Alcuni autori aggiungono questa quarta fase:
+
+**4. Fase della calma apparente**: Dopo la riconciliazione, la relazione sembra “normalizzarsi”, ma è solo una tregua: la tensione ricomincia a crescere e il ciclo riparte, spesso con intensità maggiore.
+
+
+
 **PERCHÉ È COSÌ DIFFICILE USCIRNE**
 
 Le ragioni per cui una relazione disfunzionale diventa così difficile da interrompere sono molteplici e spesso si intrecciano tra loro:
 
-*  **Rinforzo intermittente**: l’alternanza tra vicinanza e distanza crea una forte dipendenza emotiva. 
+* **Rinforzo intermittente**: l’alternanza tra vicinanza e distanza crea una forte dipendenza emotiva. 
 * **Speranza di cambiamento**: la convinzione che “*prima o poi andrà meglio*” mantiene la persona nel legame. 
 * **Paura della solitudin**e: la relazione diventa un rifugio, anche quando è fonte di sofferenza. 
 * **Credenze disfunzionali**: pensieri come *“non merito di meglio”, “è colpa mia”, “Se lo lascio,     nessuno mi amerà più”, “Devo essere paziente, è colpa del suo passato”, “Non posso buttare via tutto quello che abbiamo vissuto”* mantengono la persona nel legame, rafforzando l’idea che restare sia l’unica possibilità.
@@ -56,10 +68,6 @@ La terapia non cancella la storia, ma permette di riscrivere il modo in cui quel
 Le relazioni disfunzionali non sono un fallimento personale: sono il risultato di schemi appresi, bisogni profondi e tentativi di riparare ferite antiche. Comprenderle è il primo passo per uscirne. E quando la persona inizia a vedere con chiarezza ciò che accade, può finalmente scegliere una relazione che non intrappola, ma sostiene.
 
 **E anche se il percorso può sembrare complesso, ogni passo di consapevolezza apre uno spazio nuovo: la possibilità di costruire relazioni che non feriscono, ma nutrono. Il cambiamento è possibile, e spesso inizia proprio dal momento in cui decidiamo di guardarci con più gentilezza e verità.**
-
- 
-
- 
 
 **NOTA - Sintesi dei principali tipi di attaccamento:**
 
