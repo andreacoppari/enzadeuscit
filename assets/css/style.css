@@ -219,7 +219,8 @@ h3 { font-size: 27px; font-weight: 600; }
   .path-grid > a { min-height: 250px; }
   .page-hero { padding: 75px 0 68px; }
   .page-hero-note { margin: 0; }
-  .editorial-image, .method-grid aside, .contact-intro h2 { position: static; }
+  .editorial-image { position: relative; }
+  .method-grid aside, .contact-intro h2 { position: static; }
   .editorial-image { order: 2; }
   .editorial-image img { max-height: 520px; }
   .method-grid { gap: 36px; }
