@@ -20,7 +20,7 @@ collections:
     sortable_fields: ["title", "order"]
     fields:
       - { label: "Titolo", name: "title", widget: "string" }
-      - { label: "Ordine", name: "order", widget: "number", value_type: "int", default: 99, min: 1 }
+      - { label: "Posizione nella pagina", name: "order", widget: "number", value_type: "int", default: 99, min: 1, hint: "Inserisci 1 per far apparire questo appunto per primo, 2 per secondo, e così via." }
       - { label: "Descrizione breve", name: "summary", widget: "text", required: false }
       - { label: "Immagine", name: "image", widget: "image", required: false }
       - { label: "Testo", name: "body", widget: "markdown" }
@@ -36,7 +36,7 @@ collections:
     sortable_fields: ["title", "order"]
     fields:
       - { label: "Titolo", name: "title", widget: "string" }
-      - { label: "Ordine", name: "order", widget: "number", value_type: "int", default: 99, min: 1 }
+      - { label: "Posizione nella pagina", name: "order", widget: "number", value_type: "int", default: 99, min: 1, hint: "Inserisci 1 per far apparire questa storia per prima, 2 per seconda, e così via." }
       - { label: "Descrizione breve", name: "summary", widget: "text", required: false }
       - { label: "Immagine", name: "image", widget: "image", required: false }
       - { label: "Testo", name: "body", widget: "markdown" }

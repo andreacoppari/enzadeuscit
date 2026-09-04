@@ -68,7 +68,9 @@ h3 { font-size: 27px; font-weight: 600; }
 .hero-contacts { max-width: 650px; margin-top: 28px; padding: 19px 21px; border: 1px solid rgba(168,85,131,.28); background: rgba(255,255,255,.58); box-shadow: 0 12px 36px rgba(66,43,58,.07); }
 .hero-contacts p { margin: 0; color: #514955; font-size: 14px; line-height: 1.55; }
 .hero-contacts .hero-contacts-title { margin-bottom: 4px; color: var(--rose-dark); font-size: 11px; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; }
-.hero-contact-links { display: flex; flex-wrap: wrap; gap: 10px 28px; margin-top: 14px; }
+.hero-contact-links { display: flex; flex-wrap: wrap; gap: 12px 28px; margin-top: 14px; }
+.hero-contact-item { display: flex; align-items: baseline; gap: 5px; }
+.hero-contact-item span { color: #514955; font-size: 14px; line-height: 1.55; }
 .hero-contact-links a { color: var(--plum); font: 600 16px/1.25 var(--serif); text-decoration: none; }
 .hero-contact-links a:hover { color: var(--rose); }
 .hero-contact-links small { display: block; margin-bottom: 2px; color: var(--muted); font: 700 9px/1.2 var(--sans); letter-spacing: .12em; text-transform: uppercase; }
