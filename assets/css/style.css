@@ -219,10 +219,11 @@ h3 { font-size: 27px; font-weight: 600; }
   .path-grid > a { min-height: 250px; }
   .page-hero { padding: 75px 0 68px; }
   .page-hero-note { margin: 0; }
-  .editorial-image { position: relative; }
+  .editorial-image { position: relative; width: 100%; max-width: 100%; overflow: hidden; }
+  .editorial-image figcaption { right: 0; }
   .method-grid aside, .contact-intro h2 { position: static; }
   .editorial-image { order: 2; }
-  .editorial-image img { max-height: 520px; }
+  .editorial-image img { width: 100%; max-height: 520px; }
   .method-grid { gap: 36px; }
   .article-grid { grid-template-columns: 1fr; }
   .card-image, .story-card .card-image { height: 280px; }
