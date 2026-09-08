@@ -2,7 +2,7 @@
 title: "Ansia da prestazione: non solo lavoro ma relazioni, scelte e identità"
 order: 3
 summary: Articolo scritto da Enza Deuscit, psicoterapeuta.
-image: /images/uploads/ansia_prestaz..jpeg
+image: /images/uploads/ansia_prestaz.jpeg
 ---
 **Ansia da prestazione nella vita quotidiana: quando l’autovalutazione diventa una trappola**
 
