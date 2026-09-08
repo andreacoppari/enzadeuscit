@@ -1,6 +1,6 @@
 ---
 title: "Imparare a imparare: un percorso di consapevolezza"
-order: 6
+order: 5
 summary: Articolo scritto da Enza Deuscit, psicoterapeuta.
 image: /images/appunti/libri.jpg
 ---

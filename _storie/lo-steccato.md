@@ -1,6 +1,6 @@
 ---
 title: Lo steccato
-order: 6
+order: 14
 summary: Un giorno un ragazzo con un brutto carattere ebbe dal padre un
   sacchetto di chiodi. Il genitore gli disse di piantarne uno nello steccato del
   giardino ogni volta che avesse pers…

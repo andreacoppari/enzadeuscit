@@ -1,6 +1,6 @@
 ---
 title: Il denaro non è tutto
-order: 9
+order: 11
 summary: Può comprare un libro, ma non la conoscenza e la saggezza.
 image: /images/uploads/il-denaro-non-tutto.png
 ---

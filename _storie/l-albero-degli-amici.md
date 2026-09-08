@@ -1,6 +1,6 @@
 ---
 title: L'albero degli amici
-order: 16
+order: 4
 summary: Esistono nella nostra vita persone che ci rendono felici
 image: /images/uploads/albero_amici.png
 ---

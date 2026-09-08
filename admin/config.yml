@@ -1,14 +1,67 @@
+# local_backend: true
+
+# backend:
+#   name: proxy
+#   proxy_url: http://localhost:8081/api/v1
+#   branch: main
+
 backend:
   name: github
   repo: andreacoppari/enzadeuscit
   branch: main
-  site_domain: axy-ed-demo.netlify.app
+  site_domain: enzadeuscit.it
 
 locale: it
 media_folder: "images/uploads"
 public_folder: "/images/uploads"
 
 collections:
+  - name: "ordine_appunti"
+    label: "Ordine Appunti"
+    files:
+      - file: "_data/appunti_order.yml"
+        label: "Ordine Appunti"
+        name: "appunti_order"
+        fields:
+          - label: "Appunti di psicologia"
+            name: "appunti"
+            widget: "list"
+            label_singular: "Appunto"
+            allow_reorder: true
+            summary: "{{fields.appunto}}"
+            hint: "Trascina i titoli per stabilire l'ordine delle schede. La prima voce sarà la prima scheda."
+            field:
+              label: "Titolo appunto"
+              name: "appunto"
+              widget: "relation"
+              collection: "appunti"
+              search_fields: ["title"]
+              value_field: "title"
+              display_fields: ["title"]
+
+  - name: "ordine_storie"
+    label: "Ordine Storie"
+    files:
+      - file: "_data/storie_order.yml"
+        label: "Ordine Storie"
+        name: "storie_order"
+        fields:
+          - label: "Storie che scaldano il cuore"
+            name: "storie"
+            widget: "list"
+            label_singular: "Storia"
+            allow_reorder: true
+            summary: "{{fields.storia}}"
+            hint: "Trascina i titoli per stabilire l'ordine delle schede. La prima voce sarà la prima scheda."
+            field:
+              label: "Titolo storia"
+              name: "storia"
+              widget: "relation"
+              collection: "storie"
+              search_fields: ["title"]
+              value_field: "title"
+              display_fields: ["title"]
+
   - name: "appunti"
     label: "Appunti di psicologia"
     label_singular: "Appunto"
@@ -20,7 +73,7 @@ collections:
     sortable_fields: ["title", "order"]
     fields:
       - { label: "Titolo", name: "title", widget: "string" }
-      - { label: "Posizione nella pagina", name: "order", widget: "number", value_type: "int", default: 99, min: 1, hint: "Inserisci 1 per far apparire questo appunto per primo, 2 per secondo, e così via." }
+      - { label: "Ordine automatico provvisorio", name: "order", widget: "hidden", default: 999 }
       - { label: "Descrizione breve", name: "summary", widget: "text", required: false }
       - { label: "Immagine", name: "image", widget: "image", required: false }
       - { label: "Testo", name: "body", widget: "markdown" }
@@ -36,7 +89,7 @@ collections:
     sortable_fields: ["title", "order"]
     fields:
       - { label: "Titolo", name: "title", widget: "string" }
-      - { label: "Posizione nella pagina", name: "order", widget: "number", value_type: "int", default: 99, min: 1, hint: "Inserisci 1 per far apparire questa storia per prima, 2 per seconda, e così via." }
+      - { label: "Ordine automatico provvisorio", name: "order", widget: "hidden", default: 999 }
       - { label: "Descrizione breve", name: "summary", widget: "text", required: false }
       - { label: "Immagine", name: "image", widget: "image", required: false }
       - { label: "Testo", name: "body", widget: "markdown" }

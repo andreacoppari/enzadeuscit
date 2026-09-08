@@ -1,6 +1,6 @@
 ---
 title: "Con cosa vivono i vostri figli?"
-order: 3
+order: 9
 image: "/images/appunti/bambini.jpg"
 summary: "Se i bambini vivono con le critiche, imparano a condannare. Se i bambini vivono con l'ostilità, imparano a combattere. Se i bambini vivono con la paura, imparano a essere appren…"
 ---

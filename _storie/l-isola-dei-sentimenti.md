@@ -1,6 +1,6 @@
 ---
 title: L'isola dei sentimenti
-order: 14
+order: 6
 summary: "In un'isola vivevano tutti i sentimenti: il Buon Umore, la Tristezza,
   il Sapere, così come tutti gli altri, incluso l'Amore."
 image: /images/uploads/isola_sentimenti.png

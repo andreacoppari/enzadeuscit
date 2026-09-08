@@ -1,6 +1,6 @@
 ---
 title: Cos'è l'amicizia?
-order: 18
+order: 2
 summary: "Un adolescente disse: “parlaci dell'amicizia”"
 image: /images/uploads/amicizia_1.png
 ---

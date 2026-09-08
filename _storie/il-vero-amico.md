@@ -1,6 +1,6 @@
 ---
 title: Il vero amico
-order: 19
+order: 1
 summary: '"Il mio amico non è tornato dal campo di battaglia, Le chiedo il
   permesso per andare a cercarlo " disse un soldato al suo tenente..."'
 image: /images/uploads/keith-haring.jpeg

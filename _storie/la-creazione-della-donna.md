@@ -1,6 +1,6 @@
 ---
 title: "La creazione della donna"
-order: 8
+order: 12
 image: "/images/storie/creazione-donna.jpg"
 summary: "Quando Dio creò la donna, era già al suo sesto giorno di lavoro facendo pure gli straordinari. Apparve un angelo e gli chiese: “Come mai ci metti tanto tempo con questa?” E il S…"
 ---

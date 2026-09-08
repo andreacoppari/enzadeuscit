@@ -6,9 +6,16 @@ permalink: /appunti/
 ---
 <section class="page-hero collection-hero"><div class="container page-hero-grid"><div><p class="eyebrow">Appunti</p><h1>Appunti di psicologia</h1></div><p class="page-hero-note">Approfondimenti, studi e parole per comprendere meglio ciò che viviamo.</p></div></section>
 <section class="section collection-section"><div class="container">
-  {% assign posts = site.appunti | sort: 'order' %}
-  <div class="article-grid">{% for post in posts %}<article class="article-card">
+  {% assign ordered_titles = site.data.appunti_order.appunti %}
+  {% assign fallback_posts = site.appunti | sort: 'order' | reverse %}
+  {% assign position = 0 %}
+  <div class="article-grid">
+  {% for post in fallback_posts %}{% unless ordered_titles contains post.title %}{% assign position = position | plus: 1 %}<article class="article-card">
     <a class="card-image" href="{{ post.url | relative_url }}">{% if post.image %}<img src="{{ post.image | relative_url }}" alt="">{% else %}<span class="image-placeholder"></span>{% endif %}</a>
-    <div class="card-body"><p class="eyebrow">Appunto {% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</p><h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>{% if post.summary %}<p>{{ post.summary }}</p>{% endif %}<a class="text-link" href="{{ post.url | relative_url }}">Leggi l’appunto <span>→</span></a></div>
-  </article>{% endfor %}</div>
+    <div class="card-body"><p class="eyebrow">Appunto {% if position < 10 %}0{% endif %}{{ position }}</p><h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>{% if post.summary %}<p>{{ post.summary }}</p>{% endif %}<a class="text-link" href="{{ post.url | relative_url }}">Leggi l’appunto <span>→</span></a></div>
+  </article>{% endunless %}{% endfor %}
+  {% for title in ordered_titles %}{% assign post = site.appunti | where: "title", title | first %}{% if post %}{% assign position = position | plus: 1 %}<article class="article-card">
+    <a class="card-image" href="{{ post.url | relative_url }}">{% if post.image %}<img src="{{ post.image | relative_url }}" alt="">{% else %}<span class="image-placeholder"></span>{% endif %}</a>
+    <div class="card-body"><p class="eyebrow">Appunto {% if position < 10 %}0{% endif %}{{ position }}</p><h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>{% if post.summary %}<p>{{ post.summary }}</p>{% endif %}<a class="text-link" href="{{ post.url | relative_url }}">Leggi l’appunto <span>→</span></a></div>
+  </article>{% endif %}{% endfor %}</div>
 </div></section>

@@ -1,7 +1,7 @@
 ---
 title: "Viaggio nei disturbi d’ansia e dell’umore: riconoscerli, comprenderli e
   chiedere aiuto"
-order: 4
+order: 6
 summary: Articolo scritto da Enza Deuscit, psicoterapeuta.
 image: /images/uploads/dist.ansia-e-depr.png
 ---

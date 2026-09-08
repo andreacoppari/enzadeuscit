@@ -1,6 +1,6 @@
 ---
 title: Il quadro
-order: 11
+order: 9
 summary: "C’era una volta un re che soffriva continuamente di tristezza e
   agitazione. Stanco di questa situazione chiamò tre dei migliori pittori
   presenti nel suo regno e gli chiese: “Vor…"

@@ -1,7 +1,7 @@
 ---
 title: "Attaccamento e relazioni disfunzionali: ciò che abbiamo vissuto torna a
-  cercarci e ci intrappola. "
-order: 2
+  cercarci e ci intrappola."
+order: 11
 summary: Articolo scritto da Enza Deuscit, psicoterapeuta.
 image: /images/uploads/rel.toss1.jpeg
 ---

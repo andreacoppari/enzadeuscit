@@ -1,6 +1,6 @@
 ---
 title: "La risposta intelligente"
-order: 12
+order: 8
 image: "/images/storie/candele.jpg"
 summary: "Un professore universitario sfidò gli studenti del suo corso ponendo loro questa domanda: “Veramente è stato Dio a creare tutto ciò che esiste?” Uno studente rispose con coraggi…"
 ---

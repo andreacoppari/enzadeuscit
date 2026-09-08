@@ -1,6 +1,6 @@
 ---
 title: Il vaso incrinato
-order: 15
+order: 5
 summary: Un portatore d’acqua aveva due grossi vasi, appesi all’estremità di un
   palo che portava sulle spalle; uno dei vasi era incrinato e ogni volta
   arrivava pieno soltanto a metà, men…

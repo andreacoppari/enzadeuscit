@@ -1,6 +1,6 @@
 ---
 title: "Orme sulla sabbia"
-order: 4
+order: 16
 image: "/images/storie/orme-sabbia.png"
 summary: "\"Ho sognato che camminavo in riva al mare con il Signore"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Overthinking: quando la mente corre più veloce della realtà"
-order: 6
+order: 4
 summary: Articolo scritto da Enza Deuscit, psicoterapeuta.
 image: /images/uploads/overthinking.png
 ---

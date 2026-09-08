@@ -1,6 +1,6 @@
 ---
 title: "Ansia da prestazione: non solo lavoro ma relazioni, scelte e identità"
-order: 3
+order: 10
 summary: Articolo scritto da Enza Deuscit, psicoterapeuta.
 image: /images/uploads/ansia_prestaz.jpeg
 ---

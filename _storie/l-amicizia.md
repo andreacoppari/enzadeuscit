@@ -1,6 +1,6 @@
 ---
 title: L'amicizia
-order: 17
+order: 3
 summary: Non posso darti soluzioni per tutti i problemi della vita.
 image: /images/uploads/copilot_20260820_162642.png
 ---

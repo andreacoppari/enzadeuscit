@@ -1,6 +1,6 @@
 ---
-title: "Dipendenza digitale: un fenomeno in crescita tra bambini e adolescenti "
-order: 4
+title: "Dipendenza digitale: un fenomeno in crescita tra bambini e adolescenti"
+order: 8
 summary: Articolo scritto da Enza Deuscit, psicoterapeuta.
 image: /images/uploads/dip.social.png
 ---

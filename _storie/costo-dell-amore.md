@@ -1,6 +1,6 @@
 ---
 title: "Il costo dell'amore"
-order: 1
+order: 19
 image: "/images/storie/amare-costa.png"
 summary: "Costa dire: \"Perdonami\" e anche dire: \"Ti perdono\" costa."
 ---

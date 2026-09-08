@@ -1,6 +1,6 @@
 ---
 title: La rabbia
-order: 5
+order: 15
 summary: "Un giorno, un pensatore indiano fece la seguente domanda ai suoi
   discepoli: “Perché le persone gridano quando sono arrabbiate?”"
 image: /images/uploads/copilot_rabbia.png

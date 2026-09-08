@@ -1,7 +1,7 @@
 ---
 title: "Psichiatra, Psicologo, Psicoterapeuta: capire le differenze per tutelare
   il proprio benessere psicologico"
-order: 4
+order: 7
 summary: Articolo scritto da Enza Deuscit, psicoterapeuta.
 image: /images/uploads/psicoter.matita.png
 ---

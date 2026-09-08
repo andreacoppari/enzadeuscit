@@ -1,6 +1,6 @@
 ---
 title: La lezione della farfalla
-order: 7
+order: 13
 summary: "Allora l'uomo decise di aiutare la farfalla: prese un temperino, aprì
   il bozzolo permettendo alla farfalla di uscire immediatamente. Il suo corpo
   però era piccolo e rattrappito…"

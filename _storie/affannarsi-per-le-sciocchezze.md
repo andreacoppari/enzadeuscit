@@ -1,6 +1,6 @@
 ---
 title: Affannarsi per le sciocchezze
-order: 3
+order: 17
 summary: Una signora intraprese un breve viaggio in treno in una zona famosa per
   il suo splendido paesaggio.
 image: /images/uploads/affannarsi-per-schiocchezze.png

@@ -1,6 +1,6 @@
 ---
 title: I videogiochi fanno i bambini aggressivi
-order: 10
+order: 1
 summary: "I videogiochi violenti desensibilizzano il cervello alle immagini
   'crude' e inducono comportamenti aggressivi: a sostenerlo è una ricerca
   americana della University of Missouri…"
