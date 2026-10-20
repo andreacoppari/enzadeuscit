@@ -3,6 +3,7 @@ title: "DISTURBI DEL COMPORTAMENTO ALIMENTARE: UNA LETTURA CLINICA SECONDO IL
   DSM 5 E L’APPROCCIO COGNITIVO COMPORTAMENTALE"
 order: 999
 summary: Articolo scritto da Enza Deuscit, psicologa e psicoterapeuta.
+image: /images/uploads/dca.jpeg
 ---
 I disturbi alimentari rappresentano una delle condizioni psicologiche più complesse e pervasive, con un impatto significativo sul corpo, sulle emozioni e sulla qualità della vita. Il DSM‑5 li colloca all’interno dei *Disturbi della Nutrizione e dell’Alimentazione*, descrivendoli come quadri caratterizzati da alterazioni persistenti nel comportamento alimentare che compromettono la salute fisica e il funzionamento psicologico.
 
