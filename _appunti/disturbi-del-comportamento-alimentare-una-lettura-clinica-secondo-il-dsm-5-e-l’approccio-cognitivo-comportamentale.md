@@ -16,20 +16,6 @@ Il DSM‑5 identifica diversi quadri clinici, tra cui i principali:
 * **Disturbo da binge-eating**: abbuffate senza condotte compensatorie, con vissuti intensi di perdita di controllo.
 * **Altri disturbi non specificati**: quadri clinici che non soddisfano pienamente i criteri dei disturbi principali ma risultano comunque clinicamente significativi.
 
-
-
-**2. Quando i sintomi cambianonel tempo**
+**2. Quando i sintomi cambiano nel tempo**
 
 È frequente osservare un’evoluzione del quadro clinico. Ad esempio, una ragazza che presenta abbuffate e vomito con aumento di peso, e successivamente abbuffate e vomito con sottopeso, può rientrare in:
-
-
-
-
-
-Anoressia nervosa – sottotipo con     abbuffate/condotte di eliminazione, quando il peso scende sotto i     limiti clinici.
-
-
-
-
-
-Il DSM‑5 riconosce che i disturbialimentari sono dinamici: la diagnosi può cambiare nel tempo in base alla condizionenutrizionale, alla frequenza delle condotte e alla gravità delsottopeso.
