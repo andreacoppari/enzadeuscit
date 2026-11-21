@@ -17,7 +17,7 @@ public_folder: "/images/uploads"
 
 collections:
   - name: "ordine_appunti"
-    label: "Ordine Appunti"
+    label: "Ordina Appunti"
     files:
       - file: "_data/appunti_order.yml"
         label: "Ordine Appunti"
@@ -25,22 +25,12 @@ collections:
         fields:
           - label: "Appunti di psicologia"
             name: "appunti"
-            widget: "list"
-            label_singular: "Appunto"
-            allow_reorder: true
-            summary: "{{fields.appunto}}"
-            hint: "Trascina i titoli per stabilire l'ordine delle schede. La prima voce sarà la prima scheda."
-            field:
-              label: "Titolo appunto"
-              name: "appunto"
-              widget: "relation"
-              collection: "appunti"
-              search_fields: ["title"]
-              value_field: "title"
-              display_fields: ["title"]
+            widget: "order_sync"
+            source_path: "/appunti/"
+            hint: "Premi Sincronizza, poi Salva. Trascina le righe per riordinarle."
 
   - name: "ordine_storie"
-    label: "Ordine Storie"
+    label: "Ordina Storie"
     files:
       - file: "_data/storie_order.yml"
         label: "Ordine Storie"
@@ -48,19 +38,9 @@ collections:
         fields:
           - label: "Storie che scaldano il cuore"
             name: "storie"
-            widget: "list"
-            label_singular: "Storia"
-            allow_reorder: true
-            summary: "{{fields.storia}}"
-            hint: "Trascina i titoli per stabilire l'ordine delle schede. La prima voce sarà la prima scheda."
-            field:
-              label: "Titolo storia"
-              name: "storia"
-              widget: "relation"
-              collection: "storie"
-              search_fields: ["title"]
-              value_field: "title"
-              display_fields: ["title"]
+            widget: "order_sync"
+            source_path: "/storie/"
+            hint: "Premi Sincronizza, poi Salva. Trascina le righe per riordinarle."
 
   - name: "appunti"
     label: "Appunti di psicologia"
@@ -70,10 +50,10 @@ collections:
     slug: "{{slug}}"
     extension: "md"
     format: "frontmatter"
-    sortable_fields: ["title", "order"]
+    sortable_fields: ["title"]
     fields:
       - { label: "Titolo", name: "title", widget: "string" }
-      - { label: "Ordine automatico provvisorio", name: "order", widget: "hidden", default: 999 }
+      - { label: "Data di inserimento", name: "created_at", widget: "datetime", default: "{{now}}" }
       - { label: "Descrizione breve", name: "summary", widget: "text", required: false }
       - { label: "Immagine", name: "image", widget: "image", required: false }
       - { label: "Testo", name: "body", widget: "markdown" }
@@ -86,10 +66,10 @@ collections:
     slug: "{{slug}}"
     extension: "md"
     format: "frontmatter"
-    sortable_fields: ["title", "order"]
+    sortable_fields: ["title"]
     fields:
       - { label: "Titolo", name: "title", widget: "string" }
-      - { label: "Ordine automatico provvisorio", name: "order", widget: "hidden", default: 999 }
+      - { label: "Data di inserimento", name: "created_at", widget: "datetime", default: "{{now}}" }
       - { label: "Descrizione breve", name: "summary", widget: "text", required: false }
       - { label: "Immagine", name: "image", widget: "image", required: false }
       - { label: "Testo", name: "body", widget: "markdown" }
